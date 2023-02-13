@@ -2,8 +2,7 @@
 #This template for test
 
 ```sh
-# node js o'rnatishiz kerak
-node install
+node js o'rnatishingiz kerak avval (`https://nodejs.org/en/download/`)
 ```
 
 
